@@ -1,7 +1,7 @@
-Mousecoin Info
+LEECOIN Info
 
-Name: Mousecoin
-Ticker: MIC3
+Name: LEECOIN
+Ticker: LEE
 Block time: 2.1 Minutes
 Staking maturity: 45 Minutes [maximum 21 days]
 Mined maturity: 7 blocks
@@ -13,8 +13,8 @@ PoW reward: 1100 MIC3 per block
 PoW blocks: 92K
 Port: 11215
 rpcPort: 11115
-Reserved: 9% [Huge swap | Exchange Listing | Airdrop]
+Reserved: 25% [Exchange Listing | twitch redemption reserve ]
 ​
-NOT AN ICO | FAIR LAUNCH | AIRDROP
+NOT AN ICO | FAIR LAUNCH | STREAM COIN
 
 Blocktime: ~2 Minutes
