@@ -1,4 +1,4 @@
-// Copyright (c) 2013 Mousecoin Developers
+// Copyright (c) 2013 Leecoin Developers
 
 #ifndef PBKDF2_H
 #define PBKDF2_H

@@ -1,5 +1,5 @@
 ---
-name: "Mousecoin"
+name: "Leecoin"
 suites:
 - "lucid"
 architectures:
@@ -20,8 +20,8 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/Mousecoin/Mousecoin.git"
-  "dir": "Mousecoin"
+- "url": "https://github.com/Leecoin/Leecoin.git"
+  "dir": "Leecoin"
 files:
 - "miniupnpc-1.6.tar.gz"
 - "qrencode-3.2.0.tar.bz2"
@@ -40,17 +40,17 @@ script: |
   make $MAKEOPTS install
   cd ..
   #
-  cd Mousecoin
+  cd Leecoin
   mkdir -p $OUTDIR/src
   git archive HEAD | tar -x -C $OUTDIR/src
   cp $OUTDIR/src/doc/README $OUTDIR
   cp $OUTDIR/src/COPYING $OUTDIR
   cd src
-  make -f makefile.unix STATIC=1 OPENSSL_INCLUDE_PATH="$INSTDIR/include" OPENSSL_LIB_PATH="$INSTDIR/lib" $MAKEOPTS Mousecoind USE_UPNP=1 DEBUGFLAGS=
+  make -f makefile.unix STATIC=1 OPENSSL_INCLUDE_PATH="$INSTDIR/include" OPENSSL_LIB_PATH="$INSTDIR/lib" $MAKEOPTS Leecoind USE_UPNP=1 DEBUGFLAGS=
   mkdir -p $OUTDIR/bin/$GBUILD_BITS
-  install -s Mousecoind $OUTDIR/bin/$GBUILD_BITS
+  install -s Leecoind $OUTDIR/bin/$GBUILD_BITS
   #
   cd ..
   qmake INCLUDEPATH="$INSTDIR/include" LIBS="-L$INSTDIR/lib" RELEASE=1 USE_QRCODE=1
   make $MAKEOPTS
-  install Mousecoin-qt $OUTDIR/bin/$GBUILD_BITS
+  install Leecoin-qt $OUTDIR/bin/$GBUILD_BITS

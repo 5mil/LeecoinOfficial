@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Mousecoin</source>
-        <translation>O BMousecoine</translation>
+        <source>About Leecoin</source>
+        <translation>O BLeecoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Mousecoin&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;Mousecoinu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Leecoin&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;Leecoinu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The Mousecoin developers
-Copyright © 2014 The Mousecoin developers</source>
+Copyright © 2012-2014 The Leecoin developers
+Copyright © 2014 The Leecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The Mousecoin developers
-Copyright © 2014 The Mousecoin developers</translation>
+Copyright © 2012-2014 The Leecoin developers
+Copyright © 2014 The Leecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Mousecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše Mousecoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your Leecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše Leecoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Mousecoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Mousecoin adresu</translation>
+        <source>Sign a message to prove you own a Leecoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Leecoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Mousecoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Mousecoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Leecoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Leecoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>Mousecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Mousecoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>Leecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Leecoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Mousecoin</source>
-        <translation>Zobraziť informácie o Mousecoin</translation>
+        <source>Show information about Leecoin</source>
+        <translation>Zobraziť informácie o Leecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Mousecoin address</source>
-        <translation>Poslať mince na Mousecoin adresu</translation>
+        <source>Send coins to a Leecoin address</source>
+        <translation>Poslať mince na Leecoin adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Mousecoin</source>
-        <translation>Upraviť možnosti konfigurácie pre Mousecoin</translation>
+        <source>Modify configuration options for Leecoin</source>
+        <translation>Upraviť možnosti konfigurácie pre Leecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>Mousecoin</source>
-        <translation>Mousecoin</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Mousecoin</source>
-        <translation>&amp;O Mousecoin</translation>
+        <source>&amp;About Leecoin</source>
+        <translation>&amp;O Leecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Mousecoin client</source>
-        <translation>Mousecoin klient</translation>
+        <source>Leecoin client</source>
+        <translation>Leecoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Mousecoin network</source>
-        <translation><numerusform>%n aktívne spojenie s Mousecoin sieťov</numerusform><numerusform>%n aktívnych spojení s Mousecoin sieťov</numerusform><numerusform>%n aktívnych spojení s Mousecoin sieťou</numerusform></translation>
+        <source>%n active connection(s) to Leecoin network</source>
+        <translation><numerusform>%n aktívne spojenie s Leecoin sieťov</numerusform><numerusform>%n aktívnych spojení s Leecoin sieťov</numerusform><numerusform>%n aktívnych spojení s Leecoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Mousecoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Mousecoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Leecoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Mousecoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. Mousecoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. Leecoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. Leecoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Mousecoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Mousecoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Leecoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Leecoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Mousecoin-Qt</source>
-        <translation>Mousecoin-Qt</translation>
+        <source>Leecoin-Qt</source>
+        <translation>Leecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Mousecoin after logging in to the system.</source>
-        <translation>Automaticky spustiť Mousecoin po prihlásení sa do systému.</translation>
+        <source>Automatically start Leecoin after logging in to the system.</source>
+        <translation>Automaticky spustiť Leecoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Mousecoin on system login</source>
-        <translation>&amp;Spustiť Mousecoin pri prihlásení do systému</translation>
+        <source>&amp;Start Leecoin on system login</source>
+        <translation>&amp;Spustiť Leecoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Mousecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta Mousecoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the Leecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta Leecoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Mousecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti Mousecoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the Leecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti Leecoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Mousecoin.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Mousecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Leecoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Leecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Mousecoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť Mousecoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show Leecoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť Leecoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Mousecoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní Mousecoin.</translation>
+        <source>This setting will take effect after restarting Leecoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní Leecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Mousecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Mousecoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Leecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Leecoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Mousecoin-Qt help message to get a list with possible Mousecoin command-line options.</source>
-        <translation>Zobraziť Mousecoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Mousecoin.</translation>
+        <source>Show the Leecoin-Qt help message to get a list with possible Leecoin command-line options.</source>
+        <translation>Zobraziť Leecoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Leecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Mousecoin - Debug window</source>
-        <translation>Mousecoin - Ladiace okno</translation>
+        <source>Leecoin - Debug window</source>
+        <translation>Leecoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Mousecoin Core</source>
-        <translation>Jadro Mousecoin</translation>
+        <source>Leecoin Core</source>
+        <translation>Jadro Leecoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Mousecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte BMousecoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the Leecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte BLeecoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Mousecoin RPC console.</source>
-        <translation>Vitajte v konzole BMousecoin RPC.</translation>
+        <source>Welcome to the Leecoin RPC console.</source>
+        <translation>Vitajte v konzole BLeecoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Zadajte Mousecoin adresu (napr. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Zadajte Leecoin adresu (napr. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Mousecoin address</source>
-        <translation>UPOZORNENIE: Neplatná Mousecoin adresa</translation>
+        <source>WARNING: Invalid Leecoin address</source>
+        <translation>UPOZORNENIE: Neplatná Leecoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Zadajte Mousecoin adresu (napr. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Zadajte Leecoin adresu (napr. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Mousecoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Mousecoin adresu</translation>
+        <source>Sign the message to prove you own this Leecoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Leecoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Mousecoin address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Mousecoin adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Leecoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Leecoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Zadajte Mousecoin adresu (napr. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Zadajte Leecoin adresu (napr. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Mousecoin signature</source>
-        <translation>Zadajte Mousecoin podpis</translation>
+        <source>Enter Leecoin signature</source>
+        <translation>Zadajte Leecoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Mousecoin version</source>
-        <translation>Mousecoin verzia</translation>
+        <source>Leecoin version</source>
+        <translation>Leecoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Mousecoind</source>
-        <translation>Pošli príkaz na -server alebo Mousecoind</translation>
+        <source>Send command to -server or Leecoind</source>
+        <translation>Pošli príkaz na -server alebo Leecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Mousecoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: Mousecoin.conf)</translation>
+        <source>Specify configuration file (default: Leecoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: Leecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Mousecoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: Mousecoind.pid)</translation>
+        <source>Specify pid file (default: Leecoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: Leecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Mousecoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Mousecoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Leecoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Leecoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Mousecoinrpc
+rpcuser=Leecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=Mousecoinrpc
+rpcuser=Leecoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Mousecoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. Mousecoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Leecoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. Leecoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Mousecoin</source>
-        <translation>Mousecoin</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Mousecoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Mousecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Leecoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Leecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Mousecoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Mousecoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart Leecoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Leecoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Mousecoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Mousecoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. Leecoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Leecoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

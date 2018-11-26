@@ -81,7 +81,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
-    // Mousecoin: check prefix
+    // Leecoin: check prefix
     if(uri.scheme() != QString("BoxbaseCoin"))
         return false;
 

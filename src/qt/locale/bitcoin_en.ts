@@ -5,19 +5,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Mousecoin</source>
-        <translation>About Mousecoin</translation>
+        <source>About Leecoin</source>
+        <translation>About Leecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Mousecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Mousecoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Leecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Leecoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The Mousecoin developers
-Copyright © 2014 The Mousecoin developers</source>
+Copyright © 2012-2014 The Leecoin developers
+Copyright © 2014 The Leecoin developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Mousecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your Mousecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your Leecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your Leecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Mousecoin address</source>
-        <translation>Sign a message to prove you own a Mousecoin address</translation>
+        <source>Sign a message to prove you own a Leecoin address</source>
+        <translation>Sign a message to prove you own a Leecoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Mousecoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified Mousecoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified Leecoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified Leecoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Mousecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Mousecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>Leecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Leecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Mousecoin</source>
-        <translation>Show information about Mousecoin</translation>
+        <source>Show information about Leecoin</source>
+        <translation>Show information about Leecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Mousecoin address</source>
-        <translation>Send coins to a Mousecoin address</translation>
+        <source>Send coins to a Leecoin address</source>
+        <translation>Send coins to a Leecoin address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Mousecoin</source>
-        <translation>Modify configuration options for Mousecoin</translation>
+        <source>Modify configuration options for Leecoin</source>
+        <translation>Modify configuration options for Leecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Mousecoin</source>
-        <translation>Mousecoin</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Mousecoin</source>
-        <translation>&amp;About Mousecoin</translation>
+        <source>&amp;About Leecoin</source>
+        <translation>&amp;About Leecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,15 +542,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Mousecoin client</source>
-        <translation>Mousecoin client</translation>
+        <source>Leecoin client</source>
+        <translation>Leecoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Mousecoin network</source>
+        <source>%n active connection(s) to Leecoin network</source>
         <translation>
-            <numerusform>%n active connection to Mousecoin network</numerusform>
-            <numerusform>%n active connections to Mousecoin network</numerusform>
+            <numerusform>%n active connection to Leecoin network</numerusform>
+            <numerusform>%n active connections to Leecoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -677,8 +677,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Mousecoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid Mousecoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -749,8 +749,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Mousecoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Mousecoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. Leecoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. Leecoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1069,8 +1069,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Mousecoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Mousecoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Leecoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Leecoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1088,8 +1088,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Mousecoin-Qt</source>
-        <translation>Mousecoin-Qt</translation>
+        <source>Leecoin-Qt</source>
+        <translation>Leecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1161,13 +1161,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Mousecoin after logging in to the system.</source>
-        <translation>Automatically start Mousecoin after logging in to the system.</translation>
+        <source>Automatically start Leecoin after logging in to the system.</source>
+        <translation>Automatically start Leecoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Mousecoin on system login</source>
-        <translation>&amp;Start Mousecoin on system login</translation>
+        <source>&amp;Start Leecoin on system login</source>
+        <translation>&amp;Start Leecoin on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1186,8 +1186,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Mousecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Mousecoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Leecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Leecoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1196,8 +1196,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Mousecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the Mousecoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the Leecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the Leecoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1271,8 +1271,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Mousecoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Mousecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Leecoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Leecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1286,8 +1286,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Mousecoin addresses in the transaction list or not.</source>
-        <translation>Whether to show Mousecoin addresses in the transaction list or not.</translation>
+        <source>Whether to show Leecoin addresses in the transaction list or not.</source>
+        <translation>Whether to show Leecoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1333,8 +1333,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Mousecoin.</source>
-        <translation>This setting will take effect after restarting Mousecoin.</translation>
+        <source>This setting will take effect after restarting Leecoin.</source>
+        <translation>This setting will take effect after restarting Leecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1352,8 +1352,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Mousecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Mousecoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Leecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Leecoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1568,8 +1568,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Mousecoin-Qt help message to get a list with possible Mousecoin command-line options.</source>
-        <translation>Show the Mousecoin-Qt help message to get a list with possible Mousecoin command-line options.</translation>
+        <source>Show the Leecoin-Qt help message to get a list with possible Leecoin command-line options.</source>
+        <translation>Show the Leecoin-Qt help message to get a list with possible Leecoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1588,13 +1588,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Mousecoin - Debug window</source>
-        <translation>Mousecoin - Debug window</translation>
+        <source>Leecoin - Debug window</source>
+        <translation>Leecoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Mousecoin Core</source>
-        <translation>Mousecoin Core</translation>
+        <source>Leecoin Core</source>
+        <translation>Leecoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1603,8 +1603,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Mousecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Mousecoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Leecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Leecoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1613,8 +1613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Mousecoin RPC console.</source>
-        <translation>Welcome to the Mousecoin RPC console.</translation>
+        <source>Welcome to the Leecoin RPC console.</source>
+        <translation>Welcome to the Leecoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1772,8 +1772,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1872,7 +1872,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Mousecoin address</source>
+        <source>WARNING: Invalid Leecoin address</source>
         <translation></translation>
     </message>
     <message>
@@ -1946,8 +1946,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
 </context>
 <context>
@@ -2007,8 +2007,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Mousecoin address</source>
-        <translation>Sign the message to prove you own this Mousecoin address</translation>
+        <source>Sign the message to prove you own this Leecoin address</source>
+        <translation>Sign the message to prove you own this Leecoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2039,8 +2039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Mousecoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Mousecoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Leecoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified Leecoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2050,8 +2050,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Mousecoin signature</source>
-        <translation>Enter Mousecoin signature</translation>
+        <source>Enter Leecoin signature</source>
+        <translation>Enter Leecoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2643,8 +2643,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Mousecoin version</source>
-        <translation>Mousecoin version</translation>
+        <source>Leecoin version</source>
+        <translation>Leecoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2653,8 +2653,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Mousecoind</source>
-        <translation>Send command to -server or Mousecoind</translation>
+        <source>Send command to -server or Leecoind</source>
+        <translation>Send command to -server or Leecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2673,13 +2673,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Mousecoin.conf)</source>
-        <translation>Specify configuration file (default: Mousecoin.conf)</translation>
+        <source>Specify configuration file (default: Leecoin.conf)</source>
+        <translation>Specify configuration file (default: Leecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Mousecoind.pid)</source>
-        <translation>Specify pid file (default: Mousecoind.pid)</translation>
+        <source>Specify pid file (default: Leecoind.pid)</source>
+        <translation>Specify pid file (default: Leecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2828,8 +2828,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Mousecoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Mousecoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Leecoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Leecoin will not work properly.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3017,13 +3017,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Mousecoinrpc
+rpcuser=Leecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Mousecoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  Mousecoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Leecoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  Leecoin is probably already running.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Mousecoin</source>
-        <translation>Mousecoin</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Mousecoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Mousecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Leecoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Leecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Mousecoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart Mousecoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart Leecoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart Leecoin to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Mousecoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Mousecoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Leecoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Leecoin is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>

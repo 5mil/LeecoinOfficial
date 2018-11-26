@@ -42,7 +42,7 @@ static bool ipcScanCmd(int argc, char *argv[], bool fRelay)
     bool fSent = false;
     for (int i = 1; i < argc; i++)
     {
-        if (boost::algorithm::istarts_with(argv[i], "Mousecoin:"))
+        if (boost::algorithm::istarts_with(argv[i], "Leecoin:"))
         {
             const char *strURI = argv[i];
             try {
@@ -75,7 +75,7 @@ void ipcScanRelay(int argc, char *argv[])
 static void ipcThread(void* pArg)
 {
     // Make this thread recognisable as the GUI-IPC thread
-    RenameThread("Mousecoin-gui-ipc");
+    RenameThread("Leecoin-gui-ipc");
 	
     try
     {

@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Mousecoin - Debug window</string>
+   <string>Leecoin - Debug window</string>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color: rgb(76, 58, 39);
@@ -40,7 +40,7 @@ color: rgb(166, 124, 82);</string>
           </font>
          </property>
          <property name="text">
-          <string>Mousecoin Core</string>
+          <string>Leecoin Core</string>
          </property>
         </widget>
        </item>
@@ -326,7 +326,7 @@ color: rgb(166, 124, 82);</string>
        <item row="15" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the Mousecoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
+          <string>Open the Leecoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="text">
           <string>&amp;Open</string>
@@ -352,7 +352,7 @@ color: rgb(166, 124, 82);</string>
        <item row="17" column="0">
         <widget class="QPushButton" name="showCLOptionsButton">
          <property name="toolTip">
-          <string>Show the Mousecoin-Qt help message to get a list with possible Mousecoin command-line options.</string>
+          <string>Show the Leecoin-Qt help message to get a list with possible Leecoin command-line options.</string>
          </property>
          <property name="text">
           <string>&amp;Show</string>

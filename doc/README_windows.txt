@@ -1,6 +1,6 @@
-Mousecoin (Mousecoin) 0.4.0 BETA
+Leecoin (Leecoin) 0.4.0 BETA
 
-Copyright (c) 2011-2014 Mousecoin (Mousecoin) Developers
+Copyright (c) 2011-2014 Leecoin (Leecoin) Developers
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
@@ -10,7 +10,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-Mousecoin is a free open source project derived from Bitcoin, with
+Leecoin is a free open source project derived from Bitcoin, with
 the goal of providing a long-term energy-efficient crypto-currency.
 Built on the foundation of Bitcoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.
@@ -18,35 +18,35 @@ help further advance the field of crypto-currency.
 
 Setup
 -----
-After completing windows setup then run Mousecoin-qt.
-Alternatively you can run windows command line (cmd) in Mousecoin program dir.
+After completing windows setup then run Leecoin-qt.
+Alternatively you can run windows command line (cmd) in Leecoin program dir.
   cd daemon
-  Mousecoind
-You would need to create a configuration file Mousecoin.conf in the default
-wallet directory. Grant access to Mousecoind/Mousecoin-qt in anti-virus and firewall
+  Leecoind
+You would need to create a configuration file Leecoin.conf in the default
+wallet directory. Grant access to Leecoind/Leecoin-qt in anti-virus and firewall
 applications if necessary.
 
 The software automatically finds other nodes to connect to.  You can
 enable Universal Plug and Play (UPnP) with your router/firewall
 or forward port 9901 (TCP) to your computer so you can receive
-incoming connections.  Mousecoin works without incoming connections,
-but allowing incoming connections helps the Mousecoin network.
+incoming connections.  Leecoin works without incoming connections,
+but allowing incoming connections helps the Leecoin network.
 
 
 Upgrade
 -------
 All your existing coins/transactions should be intact with the upgrade.
 To upgrade from 0.3, first backup wallet in qt menu or by command line
-Mousecoind backupwallet <destination_backup_file>
-Then shutdown Mousecoind by
-Mousecoind stop
+Leecoind backupwallet <destination_backup_file>
+Then shutdown Leecoind by
+Leecoind stop
 Uninstall v0.3 client, download and install v0.4 client.
 If upgrade is performed after upgrade deadline, blockchain re-download is
 required.
 
 
 See the documentation/wiki at github:
-  http://github.com/Mousecoin/Mousecoin
+  http://github.com/Leecoin/Leecoin
 for help and more information.
 
 

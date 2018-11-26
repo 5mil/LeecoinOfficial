@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Mousecoin</source>
-        <translation>Despre Mousecoin</translation>
+        <source>About Leecoin</source>
+        <translation>Despre Leecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Mousecoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;Mousecoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Leecoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Leecoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The Mousecoin developers
-Copyright © 2014 The Mousecoin developers</source>
+Copyright © 2012-2014 The Leecoin developers
+Copyright © 2014 The Leecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The Mousecoin developers
-Copyright © 2014 The Mousecoin developers</translation>
+Copyright © 2012-2014 The Leecoin developers
+Copyright © 2014 The Leecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Mousecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele Mousecoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Leecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Leecoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Mousecoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Mousecoin</translation>
+        <source>Sign a message to prove you own a Leecoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Leecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Mousecoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Mousecoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Leecoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Leecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>Mousecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Mousecoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Leecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Leecoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Mousecoin</source>
-        <translation>Arată informații despre Mousecoin</translation>
+        <source>Show information about Leecoin</source>
+        <translation>Arată informații despre Leecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Mousecoin address</source>
-        <translation>Trimite monede către o adresă Mousecoin</translation>
+        <source>Send coins to a Leecoin address</source>
+        <translation>Trimite monede către o adresă Leecoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Mousecoin</source>
-        <translation>Modifică opțiuni de configurare pentru Mousecoin</translation>
+        <source>Modify configuration options for Leecoin</source>
+        <translation>Modifică opțiuni de configurare pentru Leecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>Mousecoin</source>
-        <translation>Mousecoin</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Mousecoin</source>
-        <translation>Despre Mousecoin</translation>
+        <source>&amp;About Leecoin</source>
+        <translation>Despre Leecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Mousecoin client</source>
-        <translation>Clientul Mousecoin</translation>
+        <source>Leecoin client</source>
+        <translation>Clientul Leecoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Mousecoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua Mousecoin</numerusform><numerusform>%n conexiuni active la reteaua Mousecoin</numerusform><numerusform>%n conexiuni active la reteaua Mousecoin</numerusform></translation>
+        <source>%n active connection(s) to Leecoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Leecoin</numerusform><numerusform>%n conexiuni active la reteaua Leecoin</numerusform><numerusform>%n conexiuni active la reteaua Leecoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Mousecoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Mousecoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Leecoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Mousecoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. Mousecoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Leecoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Leecoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Mousecoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Mousecoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Leecoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Leecoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Mousecoin-Qt</source>
-        <translation>Mousecoin-Qt</translation>
+        <source>Leecoin-Qt</source>
+        <translation>Leecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Mousecoin after logging in to the system.</source>
-        <translation>Pornește Mousecoin imdiat după logarea în sistem</translation>
+        <source>Automatically start Leecoin after logging in to the system.</source>
+        <translation>Pornește Leecoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Mousecoin on system login</source>
-        <translation>$Pornește Mousecoin la logarea în sistem</translation>
+        <source>&amp;Start Leecoin on system login</source>
+        <translation>$Pornește Leecoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Mousecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul Mousecoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Leecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Leecoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Mousecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua Mousecoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Leecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Leecoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Mousecoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Mousecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Leecoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Leecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Mousecoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese Mousecoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show Leecoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese Leecoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Mousecoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea Mousecoin.</translation>
+        <source>This setting will take effect after restarting Leecoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Leecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Mousecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Mousecoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Leecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Leecoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Mousecoin-Qt help message to get a list with possible Mousecoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor Mousecoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Mousecoin.</translation>
+        <source>Show the Leecoin-Qt help message to get a list with possible Leecoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor Leecoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Leecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Mousecoin - Debug window</source>
-        <translation>Mousecoin - fereastră depanare</translation>
+        <source>Leecoin - Debug window</source>
+        <translation>Leecoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Mousecoin Core</source>
-        <translation>Mousecoin Core</translation>
+        <source>Leecoin Core</source>
+        <translation>Leecoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Mousecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare Mousecoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Leecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Leecoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Mousecoin RPC console.</source>
-        <translation>Bine ati venit la consola Mousecoin RPC.</translation>
+        <source>Welcome to the Leecoin RPC console.</source>
+        <translation>Bine ati venit la consola Leecoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Introduceți o adresă Mousecoin(ex:MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Introduceți o adresă Leecoin(ex:MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Mousecoin address</source>
-        <translation>Atenție: Adresă Mousecoin invalidă</translation>
+        <source>WARNING: Invalid Leecoin address</source>
+        <translation>Atenție: Adresă Leecoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Introduceți o adresă Mousecoin(ex:MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Introduceți o adresă Leecoin(ex:MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Mousecoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Mousecoin</translation>
+        <source>Sign the message to prove you own this Leecoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Leecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Mousecoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Mousecoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Leecoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Leecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Introduceți o adresă Mousecoin(ex:MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Introduceți o adresă Leecoin(ex:MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Mousecoin signature</source>
-        <translation>Introduceti semnatura Mousecoin</translation>
+        <source>Enter Leecoin signature</source>
+        <translation>Introduceti semnatura Leecoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Mousecoin version</source>
-        <translation>Versiune Mousecoin</translation>
+        <source>Leecoin version</source>
+        <translation>Versiune Leecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Mousecoind</source>
-        <translation>Trimite comanda catre server sau Mousecoind</translation>
+        <source>Send command to -server or Leecoind</source>
+        <translation>Trimite comanda catre server sau Leecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Mousecoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: Mousecoin.conf)</translation>
+        <source>Specify configuration file (default: Leecoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: Leecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Mousecoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: Mousecoin.pid)</translation>
+        <source>Specify pid file (default: Leecoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: Leecoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Mousecoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Mousecoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Leecoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Leecoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,22 +2990,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Mousecoinrpc
+rpcuser=Leecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=Mousecoinrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=Leecoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Mousecoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Leecoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Testoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Mousecoin</source>
-        <translation>Mousecoin</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Mousecoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Mousecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Leecoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Leecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Mousecoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați Mousecoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Leecoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Leecoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Mousecoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Mousecoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Leecoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Leecoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

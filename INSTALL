@@ -1,9 +1,9 @@
-Building Mousecoin
+Building Leecoin
 
-See doc/readme-qt.rst for instructions on building Mousecoin QT,
+See doc/readme-qt.rst for instructions on building Leecoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Mousecoin.
+implementation of Leecoin.
 
-See doc/build-*.txt for instructions on building Mousecoind,
+See doc/build-*.txt for instructions on building Leecoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Mousecoin.
+implementation of Leecoin.

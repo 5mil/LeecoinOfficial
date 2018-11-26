@@ -46,8 +46,8 @@ static const int64_t nTargetTimespan = 2.1 * nTargetSpacing;
 unsigned int nTargetSpacing = 2.1 * 60;
 //static const int64_t nInterval = nTargetTimespan / nTargetSpacing;
 
-unsigned int nStakeMinAge = 60 * 45; // minimum age for coin age 45 minutes
-unsigned int nStakeMaxAge = 60 * 60 * 24 * 21; // stake age of full weight 21 days (time until new MIC3 are born)
+unsigned int nStakeMinAge = 60 * 60; // minimum age for coin age 45 minutes
+unsigned int nStakeMaxAge = 60 * 60 * 24 * 30; // stake age of full weight 21 days (time until new LEE are born)
 unsigned int nModifierInterval = 10 * 60; // Time to elapse before new modifier is computed
 
 int nCoinbaseMaturity = 6;
@@ -73,7 +73,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Mousecoin Signed Message:\n";
+const string strMessageMagic = "Leecoin Signed Message:\n";
 
 // Settings
 int64_t nTransactionFee = MIN_TX_FEE;
@@ -994,7 +994,7 @@ int64_t GetProofOfWorkReward(int64_t nFees)
     }
     else if(nBestHeight > 600000)
     {
-        nSubsidy = 0.01 * COIN;
+        nSubsidy = 50 * COIN;
     }
  
     
@@ -1007,19 +1007,19 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 // miner's coin stake reward based on coin age spent (coin-days)
 int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
-    static int64_t nRewardCoinYear = 250 * CENT;  // creation amount per coin-year [250% Starting | ~5000% Peak]
+    static int64_t nRewardCoinYear = 100 * CENT;  
     int64_t nSubsidy = nCoinAge * 33 / (365 * 33 + 8) * nRewardCoinYear;
 
-if(nBestHeight < 600001)
+if(nBestHeight < 420001)
     {
-        nSubsidy <<= (nBestHeight / 100000); // Doubling every 100k blocks until block 600K | doubles 6 times
+        nSubsidy <<= (nBestHeight / 70000); // Doubling every 70k blocks until block 420K | doubles 6 times
     }
-else if(nBestHeight > 600000)
+else if(nBestHeight > 420000)
     {
-        nSubsidy >>= (nBestHeight - 600000 / 10000); // Halving every 10k blocks until block 1.2M | halves 60 times
+        nSubsidy >>= (nBestHeight - 420000 / 50000); // Halving every 50k blocks until block 1.2M | halves 60 times
         if(nBestHeight > 1200000)
         {
-        nSubsidy = nCoinAge * 33 / (365 * 33 + 8) * (150 * CENT); // 150% Forever
+        nSubsidy = nCoinAge * 33 / (365 * 33 + 8) * (169 * CENT); // 169% Forever
         }
     }
 
@@ -2105,7 +2105,7 @@ bool CBlock::CheckBlock(bool fCheckPOW, bool fCheckMerkleRoot, bool fCheckSig) c
         if (!CheckCoinStakeTimestamp(GetBlockTime(), (int64_t)vtx[1].nTime))
             return DoS(50, error("CheckBlock() : coinstake timestamp violation nTimeBlock=%"PRId64" nTimeTx=%u", GetBlockTime(), vtx[1].nTime));
 
-        // Mousecoin: check proof-of-stake block signature
+        // Leecoin: check proof-of-stake block signature
         if (fCheckSig && !CheckBlockSignature())
             return DoS(100, error("CheckBlock() : bad proof-of-stake block signature"));
     }
@@ -2376,7 +2376,7 @@ bool ProcessBlock(CNode* pfrom, CBlock* pblock)
     return true;
 }
 
-// Mousecoin: attempt to generate suitable proof-of-stake
+// Leecoin: attempt to generate suitable proof-of-stake
 bool CBlock::SignBlock(CWallet& wallet, int64_t nFees)
 {
     // if we are trying to sign
@@ -2464,7 +2464,7 @@ bool CheckDiskSpace(uint64_t nAdditionalBytes)
         string strMessage = _("Warning: Disk space is low!");
         strMiscWarning = strMessage;
         printf("*** %s\n", strMessage.c_str());
-        uiInterface.ThreadSafeMessageBox(strMessage, "Mousecoin", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
+        uiInterface.ThreadSafeMessageBox(strMessage, "Leecoin", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
         StartShutdown();
         return false;
     }
@@ -2524,10 +2524,10 @@ bool LoadBlockIndex(bool fAllowNew)
 
     if (fTestNet)
     {
-        pchMessageStart[0] = 0xa9;
-        pchMessageStart[1] = 0xe1;
-        pchMessageStart[2] = 0x1e;
-        pchMessageStart[3] = 0x9a;
+        pchMessageStart[0] = 0xa1;
+        pchMessageStart[1] = 0xe9;
+        pchMessageStart[2] = 0x9e;
+        pchMessageStart[3] = 0x1a;
 
         bnTrustedModulus.SetHex("a1b39cf72623dacfe326d0892b599be0f31052239cddd95a3f25101c801dc990453b38c9434efe3f372db39a32c2bb44cbaea72d62c8931fa785b0ec44531308df3e46069be5573e49bb29f4d479bfc3d162f57a5965db03810be7636da265bfced9c01a6b0296c77910ebdc8016f70174f0f18a57b3b971ac43a934c6aedbc5c866764a3622b5b7e3f9832b8b3f133c849dbcc0396588abcd1e41048555746e4823fb8aba5b3d23692c6857fccce733d6bb6ec1d5ea0afafecea14a0f6f798b6b27f77dc989c557795cc39a0940ef6bb29a7fc84135193a55bcfc2f01dd73efad1b69f45a55198bd0e6bef4d338e452f6a420f1ae2b1167b923f76633ab6e55");
         bnProofOfWorkLimit = bnProofOfWorkLimitTestNet; // 16 bits PoW target limit for testnet
@@ -2573,7 +2573,7 @@ bool LoadBlockIndex(bool fAllowNew)
         //     CTxOut(empty)
         //   vMerkleTree: ab46db595f
 
-        const char* pszTimestamp = "The second mouse is born on Dec 16th, 2017";
+        const char* pszTimestamp = "There is no failure in true survival";
         CTransaction txNew;
         txNew.nTime = 1513431063;
         txNew.vin.resize(1);

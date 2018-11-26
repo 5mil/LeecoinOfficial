@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Mousecoin</source>
-        <translation>Sobre Mousecoin</translation>
+        <source>About Leecoin</source>
+        <translation>Sobre Leecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Mousecoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;Mousecoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Leecoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Leecoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The Mousecoin developers
-Copyright © 2014 The Mousecoin developers</source>
+Copyright © 2012-2014 The Leecoin developers
+Copyright © 2014 The Leecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The Mousecoin developers
-Copyright © 2014 The Mousecoin developers</translation>
+Copyright © 2012-2014 The Leecoin developers
+Copyright © 2014 The Leecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Mousecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de Mousecoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Leecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Leecoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Mousecoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Mousecoin</translation>
+        <source>Sign a message to prove you own a Leecoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Leecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Mousecoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Mousecoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Leecoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Leecoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Mousecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Mousecoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Leecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Leecoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Mousecoin</source>
-        <translation>Mostra informació sobre Mousecoin</translation>
+        <source>Show information about Leecoin</source>
+        <translation>Mostra informació sobre Leecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Mousecoin address</source>
-        <translation>Enviar monedes a una adreça Mousecoin</translation>
+        <source>Send coins to a Leecoin address</source>
+        <translation>Enviar monedes a una adreça Leecoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Mousecoin</source>
-        <translation>Modificar les opcions de configuració per a Mousecoin</translation>
+        <source>Modify configuration options for Leecoin</source>
+        <translation>Modificar les opcions de configuració per a Leecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Mousecoin</source>
-        <translation>Mousecoin</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Mousecoin</source>
-        <translation>&amp;Sobre Mousecoin</translation>
+        <source>&amp;About Leecoin</source>
+        <translation>&amp;Sobre Leecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Mousecoin client</source>
-        <translation>Client Mousecoin</translation>
+        <source>Leecoin client</source>
+        <translation>Client Leecoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Mousecoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa Mousecoin</numerusform><numerusform>%n conexions actives a la xarxa Mousecoin</numerusform></translation>
+        <source>%n active connection(s) to Leecoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Leecoin</numerusform><numerusform>%n conexions actives a la xarxa Leecoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -650,8 +650,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Mousecoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Mousecoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Leecoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -710,8 +710,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Mousecoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. Mousecoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Leecoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Leecoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1044,8 +1044,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Mousecoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Mousecoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Leecoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Leecoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,8 +1063,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Mousecoin-Qt</source>
-        <translation>Mousecoin-Qt</translation>
+        <source>Leecoin-Qt</source>
+        <translation>Leecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1136,13 +1136,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Mousecoin after logging in to the system.</source>
-        <translation>Inicia automàticament Mousecoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Leecoin after logging in to the system.</source>
+        <translation>Inicia automàticament Leecoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Mousecoin on system login</source>
-        <translation>&amp;Iniciar Mousecoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Leecoin on system login</source>
+        <translation>&amp;Iniciar Leecoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1161,8 +1161,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Mousecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client Mousecoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Leecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Leecoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Mousecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa Mousecoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the Leecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa Leecoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1246,8 +1246,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Mousecoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Mousecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Leecoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Leecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1261,8 +1261,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Mousecoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar Mousecoin adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show Leecoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar Leecoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1308,8 +1308,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Mousecoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Mousecoin.</translation>
+        <source>This setting will take effect after restarting Leecoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Leecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1327,8 +1327,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Mousecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Mousecoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Leecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Leecoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1543,8 +1543,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Mousecoin-Qt help message to get a list with possible Mousecoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de Mousecoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Mousecoin.</translation>
+        <source>Show the Leecoin-Qt help message to get a list with possible Leecoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Leecoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Leecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,13 +1563,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Mousecoin - Debug window</source>
-        <translation>Mousecoin - Finestra Depuració</translation>
+        <source>Leecoin - Debug window</source>
+        <translation>Leecoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Mousecoin Core</source>
-        <translation>Nucli Mousecoin</translation>
+        <source>Leecoin Core</source>
+        <translation>Nucli Leecoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1578,8 +1578,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Mousecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració Mousecoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Leecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Leecoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Mousecoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de Mousecoin.</translation>
+        <source>Welcome to the Leecoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de Leecoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1747,8 +1747,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Introdueix una adreça Mousecoin (p.ex. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Introdueix una adreça Leecoin (p.ex. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,8 +1847,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Mousecoin address</source>
-        <translation>ADVERTÈNCIA: Direcció Mousecoin invàlida</translation>
+        <source>WARNING: Invalid Leecoin address</source>
+        <translation>ADVERTÈNCIA: Direcció Leecoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1921,8 +1921,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Introdueix una adreça Mousecoin (p.ex. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Introdueix una adreça Leecoin (p.ex. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
 </context>
 <context>
@@ -1982,8 +1982,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Mousecoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Mousecoin</translation>
+        <source>Sign the message to prove you own this Leecoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Leecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,8 +2014,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Mousecoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Mousecoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Leecoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Leecoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Mousecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
-        <translation>Introdueix una adreça Mousecoin (p.ex. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
+        <source>Enter a Leecoin address (e.g. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</source>
+        <translation>Introdueix una adreça Leecoin (p.ex. MXnRx1TDjAgQPk2rCu4DGH23NXoSZWJbht)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Mousecoin signature</source>
-        <translation>Introduïu la signatura Mousecoin</translation>
+        <source>Enter Leecoin signature</source>
+        <translation>Introduïu la signatura Leecoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2606,8 +2606,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Mousecoin version</source>
-        <translation>versió Mousecoin</translation>
+        <source>Leecoin version</source>
+        <translation>versió Leecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Mousecoind</source>
-        <translation>Enviar comandes a -server o Mousecoind</translation>
+        <source>Send command to -server or Leecoind</source>
+        <translation>Enviar comandes a -server o Leecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Mousecoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: Mousecoin.conf)</translation>
+        <source>Specify configuration file (default: Leecoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: Leecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Mousecoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: Mousecoind.pid)</translation>
+        <source>Specify pid file (default: Leecoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: Leecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2791,8 +2791,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Mousecoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Mousecoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Leecoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Leecoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2981,24 +2981,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Mousecoinrpc
+rpcuser=Leecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=Mousecoinrpc
+rpcuser=Leecoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;Mousecoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,13 +3124,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Mousecoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Mousecoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Leecoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Leecoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Mousecoin</source>
-        <translation>Mousecoin</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3164,13 +3164,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Mousecoin</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Mousecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Leecoin</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Leecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Mousecoin to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar Mousecoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart Leecoin to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar Leecoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3239,8 +3239,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Mousecoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. Mousecoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Leecoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Leecoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

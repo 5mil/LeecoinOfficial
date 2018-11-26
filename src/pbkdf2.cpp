@@ -1,4 +1,4 @@
-// Copyright (c) 2013 Mousecoin Developers
+// Copyright (c) 2013 Leecoin Developers
 
 #include <string.h>
 #include "pbkdf2.h"
